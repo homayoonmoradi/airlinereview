@@ -1,4 +1,6 @@
 # airlinereview
+by Dr. Homayoon Moradi
+homayoon.moradi@hotmail.com
 
 Here I analyse online reviews of all airlines. The analysis consists of 8 steps, starting from scraping raw online reviews all the way to presenting main results.
 
@@ -15,7 +17,3 @@ Here I analyse online reviews of all airlines. The analysis consists of 8 steps,
 06_Sentiments : Running three sentiment analysis for each airline and comparing them
 
 07_Presentation : Presenting main results
-
-* Remark :  After unziping the data_UnzipHEre.zip file, moves all files to the main folder.
-
-For unquiries contact homayoon.moradi@gmail.com
