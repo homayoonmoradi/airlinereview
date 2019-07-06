@@ -1,4 +1,5 @@
 # airlinereview
+
 Here I analyse online reviews of all airlines. The analysis consists of 8 steps, starting from scraping raw online reviews all the way to presenting main results.
 
 01_getting_data : Scraping more than 930000 online reviews of all airlines.
@@ -11,6 +12,10 @@ Here I analyse online reviews of all airlines. The analysis consists of 8 steps,
 
 05_LDA_Summary_WC : Determing topics that reviews are concerned about by running topic modeling analysis, text summarisations, and word cloud visualization
 
-06_Sentiments : DRunning three sentiment analysis for each airline and comparing them
+06_Sentiments : Running three sentiment analysis for each airline and comparing them
 
 07_Presentation : Presenting main results
+
+* Remark :  After unziping the data_UnzipHEre.zip file, moves all files to the main folder.
+
+For unquiries contact homayoon.moradi@gmail.com
