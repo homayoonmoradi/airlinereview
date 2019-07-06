@@ -2,7 +2,7 @@
 
 Here I analyse online reviews of all airlines. The analysis consists of 8 steps, starting from scraping raw online reviews all the way to presenting main results.
 
-01_getting_data : Scraping more than 930000 online reviews of all airlines.
+01_getting_data : Scraping more than 93000 online reviews of all airlines.
 
 02_cleaning : Cleaning all reviews, refining variables, adding new variables
 
